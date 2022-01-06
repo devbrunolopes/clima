@@ -4,11 +4,13 @@ Aplicativo para saber sobre o clima na sua cidade ou em qualquer outro lugar do 
 
 O QUE APRENDI NESSE PROJETO:
 
+- UITextField
 - Delegate
 - Protocols
 - Extensions
 - Core Location
 - API
+- Networking
 - JSON
 - Closures
 - Usar Dark Mode
