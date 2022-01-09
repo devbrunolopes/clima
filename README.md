@@ -15,6 +15,8 @@ O QUE APRENDI NESSE PROJETO:
 - Closures
 - Usar Dark Mode
 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6884798843137859584/" target= "_blank">Vídeo do app funcionando no LinkedIn</a>
+
 
 <p>Prints da tela do app:</p>
 Light Mode
